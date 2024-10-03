@@ -1,0 +1,18 @@
+body {
+    padding: 30px;
+    background-image: conic-gradient(from 90deg, red, yellow, green);
+
+}
+h1 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#carouselExampleAutoplaying img {
+    height: 600px;
+}
+/* #moviesDesc, #moviesDesc2  {
+    font-size:  1rem;
+} */
+
+/* #moviesDesc .card, #moviesDesc2 .card img  {
+    height: 700px;
+} */
